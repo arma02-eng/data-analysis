@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load data
-pd.read_csv('../../data/tips.csv')
+df = pd.read_csv('../../data/tips.csv')
 
 # Revenue per day
 revenue_per_day = df.groupby('day')['total_bill'].sum()
