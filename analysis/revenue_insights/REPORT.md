@@ -35,16 +35,16 @@ These metrics allow comparison of customer value rather than raw totals.
 
 ### 1. Revenue by Day
 
-Saturday generates the highest total revenue, indicating peak demand during weekends.
+Saturday generated $1778.40 total revenue, 1,452.52 more than Friday, indicating peak demand during weekends.
 
 **Business implication:**
-More staff and inventory should be allocated on Saturdays.
+More staff and inventory should be allocated For Saturdays and Sundays, its the highest volume of revenue per day.
 
 ---
 
 ### 2. Lunch vs Dinner Performance
 
-Dinner service produces significantly higher total revenue than lunch.
+Dinner service produces significantly higher total revenue than lunch by a margin of almost 3 times $3,660.30 vs $1,167.47.
 
 **Insight:**
 Higher earnings are driven mainly by customer volume rather than higher spending per person.
@@ -53,10 +53,10 @@ Higher earnings are driven mainly by customer volume rather than higher spending
 
 ### 3. Customer Spending Behavior
 
-Smaller parties (especially size 2) show higher average bills compared to larger groups.
+ Parties of 2 generate $8.22 per person, Parties of 6 only $5.81.
 
 **Implication:**
-Large parties do not necessarily increase per-customer profitability.
+Smaller parties spend more per customer than larger parties they should be prioritized through ensure good customer service for repeated visits and consistent spending.
 
 ---
 
@@ -64,11 +64,26 @@ Large parties do not necessarily increase per-customer profitability.
 
 Revenue per person varies across days, suggesting some days attract higher-value customers rather than just higher traffic.
 
+
+Saturday had the highest revenue per customer per day, followed by friday, sunday, thursday
+
+|Day    | Revenue Per Person|
+|-------|-------------------|
+|Sat    | 8.18              |
+|Fri    | 8.13              |
+|Sun    | 7.86              |
+|Thur   | 7.42              |
 ---
 
 ### 5. Tipping Patterns
 
 Average tip percentage differs between meal times, indicating behavioral differences in customer tipping habits.
+
+Lunch 16.4%, 
+Dinner 15.9%.
+
+**Implication:**
+Business hours draw better tipping behavior from customers(business lunches, office workers and other mid day customers) over weekends where they might be casual dinners 
 
 ---
 
