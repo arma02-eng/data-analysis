@@ -118,3 +118,11 @@ The analysis shows that restaurant revenue is primarily influenced by timing and
 * Add time-series trend analysis
 * Compare smoker vs non-smoker spending behavior
 * Build predictive model for expected revenue
+
+![Revenue by Day](charts/revenue_by_day.png)
+
+![Revenue by Time](charts/revenue_by_time.png)
+
+![Revenue per Person by Day](charts/revenue_per_person_by_size.png)
+
+![Tip % by Day](charts/tip_pct_by_day.png)
