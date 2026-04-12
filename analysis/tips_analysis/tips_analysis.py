@@ -24,7 +24,7 @@ plt.rcParams.update({
 # Load data
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-PROJECT_DIR = Path(__file__).resolve().parents[1]
+PROJECT_DIR = Path(__file__).resolve().parents[2]
 DATA_DIR = PROJECT_DIR / "data"
 OUTPUT_DIR = SCRIPT_DIR / "charts"
 OUTPUT_DIR.mkdir(exist_ok=True)
